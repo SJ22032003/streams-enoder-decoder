@@ -1,0 +1,6 @@
+1. Encryption | Decryption => crypto
+2. Hashing - Salting (one way) => crypto
+3. Compression | Decompression => zlib
+4. Encoding | Decoding => buffer text-encoding/decoding
+
+THESE ARE ALL DIFFERENT BUT FOLLOW THE SIMILAR PRINCIPLES

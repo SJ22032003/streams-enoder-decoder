@@ -1,0 +1,16 @@
+{
+  "name": "encrypt-decrypt",
+  "version": "1.0.0",
+  "description": "using streams to create advance encryption and decryption pipeline",
+  "main": "app.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-strip-types app.ts"
+  },
+  "author": "Shobhit Jaryal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.8.1"
+  }
+}
